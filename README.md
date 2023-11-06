@@ -8,14 +8,6 @@
 
 ---
 
-## Key Vocab
-
-- **Request**: an attempt by one machine to contact another over the internet.
-- **Client**: an application or machine that accesses services being provided by
-  a server through the internet.
-
----
-
 ## Introduction
 
 Simple Python applications are capable of powerful feats. We can use them to
@@ -45,6 +37,11 @@ environment.
 ```console
 $ pipenv install && pipenv shell
 ```
+
+This code-along explores the `Requests` library, which is a simple but useful
+HTTP library. We will use the library to make `GET` requests to a URL. We won't
+use Flask in this lesson, so you'll notice the project structure includes a
+`lib` folder rather than `server`.
 
 ## Making an HTTP Request through the Internet
 
