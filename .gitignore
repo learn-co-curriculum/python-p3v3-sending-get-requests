@@ -1,0 +1,538 @@
+Delta compression using up to 10 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 2.39 KiB | 2.39 MiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/learn-co-curriculum/python-p3v3-flask-fundamentals-conclusion.git
+ * [new branch]      HEAD -> main
+branch 'main' set up to track 'origin/main'.
+✓ Pushed commits to https://github.com/learn-co-curriculum/python-p3v3-flask-fundamentals-conclusion.git
+origin	https://github.com/learn-co-curriculum/python-p3v3-flask-fundamentals-conclusion.git (fetch)
+origin	https://github.com/learn-co-curriculum/python-p3v3-flask-fundamentals-conclusion.git (push)
+Please enter the course number:
+7391
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-flask-fundamentals-conclusion && git config --get remote.origin.url
+Markdown converted to HTML
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-flask-fundamentals-conclusion && git config --get remote.origin.url
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-flask-fundamentals-conclusion && git config --get remote.origin.url
+Canvas lesson created. Lesson available at https://learning.flatironschool.com/courses/7391/pages/conclusion-to-flask-fundamentals
+[main 1f98a4f] Add .canvas file
+ 1 file changed, 6 insertions(+)
+ create mode 100644 .canvas
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 401 bytes | 401.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/learn-co-curriculum/python-p3v3-flask-fundamentals-conclusion.git
+   b991c50..1f98a4f  main -> main
+Opening github.com/learn-co-curriculum/python-p3v3-flask-fundamentals-conclusion in your browser.
+✅ Content creation complete.
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi flask-lab/.gitignore
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % clear
+
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % ls
+README.md			python-codealong
+canvas-quiz			python-lab
+css-lab				python-lesson
+flask-codealong			readme
+flask-lab			ruby-active-record-lab
+html-lab			ruby-lab
+java-lab-gradle			ruby-sinatra-lab
+java-lab-maven			setup-script-instructions.md
+javascript-lab			setup.sh
+mysetup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % bash setup.sh 
+❗ Make sure you have the dependencies for this script installed
+   Check 'setup-script-instructions.md' for details
+
+❗ As written, in order for the file paths to work, you need to run this
+   script from the root level of the 'se-curriculum-templates' folder
+
+❗ Be sure to update the 'destination' variable at the top of this file
+   before running the script
+What is the name of the directory you want to create?
+python-p3v3-intro-to-remote-data
+Initialized empty Git repository in /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-intro-to-remote-data/.git/
+Select the type of content you want to create:
+1) lesson
+2) lab
+3) quiz
+Enter 1, 2 or 3: 1
+Okay we will create a lesson.
+What would you like to call your lesson?
+Introduction to Getting Remote Data
+[main (root-commit) 5ca3406] Initialize Content
+ 4 files changed, 125 insertions(+)
+ create mode 100644 .github/workflows/canvas-sync.yml
+ create mode 100644 CONTRIBUTING.md
+ create mode 100644 LICENSE.md
+ create mode 100644 README.md
+fatal: No branch named 'master'.
+✓ Created repository learn-co-curriculum/python-p3v3-intro-to-remote-data on GitHub
+✓ Added remote https://github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data.git
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 2.39 KiB | 2.39 MiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data.git
+ * [new branch]      HEAD -> main
+branch 'main' set up to track 'origin/main'.
+✓ Pushed commits to https://github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data.git
+origin	https://github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data.git (fetch)
+origin	https://github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data.git (push)
+Please enter the course number:
+7391
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-intro-to-remote-data && git config --get remote.origin.url
+Markdown converted to HTML
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-intro-to-remote-data && git config --get remote.origin.url
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-intro-to-remote-data && git config --get remote.origin.url
+Canvas lesson created. Lesson available at https://learning.flatironschool.com/courses/7391/pages/introduction-to-getting-remote-data
+[main a8401f7] Add .canvas file
+ 1 file changed, 6 insertions(+)
+ create mode 100644 .canvas
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 404 bytes | 404.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data.git
+   5ca3406..a8401f7  main -> main
+Opening github.com/learn-co-curriculum/python-p3v3-intro-to-remote-data in your browser.
+✅ Content creation complete.
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % ls
+README.md			python-codealong
+canvas-quiz			python-lab
+css-lab				python-lesson
+flask-codealong			readme
+flask-lab			ruby-active-record-lab
+html-lab			ruby-lab
+java-lab-gradle			ruby-sinatra-lab
+java-lab-maven			setup-script-instructions.md
+javascript-lab			setup.sh
+mysetup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % cp ~/code/phase3/lessons/python-p3v3-request-response-cycle/.gitignore python-lesson/
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi python-lesson/.gitignore
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % bash setup.sh
+❗ Make sure you have the dependencies for this script installed
+   Check 'setup-script-instructions.md' for details
+
+❗ As written, in order for the file paths to work, you need to run this
+   script from the root level of the 'se-curriculum-templates' folder
+
+❗ Be sure to update the 'destination' variable at the top of this file
+   before running the script
+What is the name of the directory you want to create?
+python-p3v3-sending-get-requests
+Initialized empty Git repository in /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests/.git/
+Select the type of content you want to create:
+1) lesson
+2) lab
+3) quiz
+Enter 1, 2 or 3: 1
+Okay we will create a lesson.
+What would you like to call your lesson?
+Sending GET Requests
+[main (root-commit) c53776b] Initialize Content
+ 4 files changed, 125 insertions(+)
+ create mode 100644 .github/workflows/canvas-sync.yml
+ create mode 100644 CONTRIBUTING.md
+ create mode 100644 LICENSE.md
+ create mode 100644 README.md
+fatal: No branch named 'master'.
+✓ Created repository learn-co-curriculum/python-p3v3-sending-get-requests on GitHub
+✓ Added remote https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 2.38 KiB | 2.38 MiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+ * [new branch]      HEAD -> main
+branch 'main' set up to track 'origin/main'.
+✓ Pushed commits to https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+origin	https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git (fetch)
+origin	https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git (push)
+Please enter the course number:
+7391
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests && git config --get remote.origin.url
+Markdown converted to HTML
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests && git config --get remote.origin.url
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests && git config --get remote.origin.url
+Canvas lesson created. Lesson available at https://learning.flatironschool.com/courses/7391/pages/sending-get-requests
+[main c80f643] Add .canvas file
+ 1 file changed, 6 insertions(+)
+ create mode 100644 .canvas
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 395 bytes | 395.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+   c53776b..c80f643  main -> main
+Opening github.com/learn-co-curriculum/python-p3v3-sending-get-requests in your browser.
+✅ Content creation complete.
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % bash setup.sh 
+❗ Make sure you have the dependencies for this script installed
+   Check 'setup-script-instructions.md' for details
+
+❗ As written, in order for the file paths to work, you need to run this
+   script from the root level of the 'se-curriculum-templates' folder
+
+❗ Be sure to update the 'destination' variable at the top of this file
+   before running the script
+What is the name of the directory you want to create?
+python-p3v3-sending-get-requests
+Initialized empty Git repository in /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests/.git/
+Select the type of content you want to create:
+1) lesson
+2) lab
+3) quiz
+Enter 1, 2 or 3: 2
+Okay what type of lab would you like to create?
+1) Java-Maven		 5) Python-codealong	 9) CSS
+2) Java-Gradle		 6) Flask-lab		10) Ruby
+3) JavaScript		 7) Flask-codealong	11) Ruby-Active-Record
+4) Python-lab		 8) HTML		12) Ruby-Sinatra
+Enter the number for the type of lab you want to create: 7
+Okay we will create a Flask codealong.
+What would you like to call your lab?
+Sending GET Requests
+[main (root-commit) b766f7c] Initialize Content
+ 12 files changed, 572 insertions(+)
+ create mode 100644 .github/workflows/canvas-sync.yml
+ create mode 100644 CONTRIBUTING.md
+ create mode 100644 LICENSE.md
+ create mode 100644 Pipfile
+ create mode 100644 Pipfile.lock
+ create mode 100644 README.md
+ create mode 100644 pytest.ini
+ create mode 100644 server/.DS_Store
+ create mode 100644 server/app.py
+ create mode 100644 server/testing/.DS_Store
+ create mode 100644 server/testing/codegrade_test.py
+ create mode 100644 server/testing/conftest.py
+fatal: No branch named 'master'.
+✓ Created repository learn-co-curriculum/python-p3v3-sending-get-requests on GitHub
+✓ Added remote https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (15/15), done.
+Writing objects: 100% (18/18), 9.90 KiB | 9.90 MiB/s, done.
+Total 18 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+ * [new branch]      HEAD -> main
+branch 'main' set up to track 'origin/main'.
+✓ Pushed commits to https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+origin	https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git (fetch)
+origin	https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git (push)
+Please enter the course number:
+7391
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests && git config --get remote.origin.url
+Markdown converted to HTML
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests && git config --get remote.origin.url
+cd /Users/lindaseiter/code/aws-se-curriculum-templates/python-p3v3-sending-get-requests && git config --get remote.origin.url
+Canvas lesson created. Lesson available at https://learning.flatironschool.com/courses/7391/assignments/262692
+[main d3664b6] Add .canvas file
+ 1 file changed, 6 insertions(+)
+ create mode 100644 .canvas
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 389 bytes | 389.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/learn-co-curriculum/python-p3v3-sending-get-requests.git
+   b766f7c..d3664b6  main -> main
+Opening github.com/learn-co-curriculum/python-p3v3-sending-get-requests in your browser.
+✅ Content creation complete.
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % cd flask-codealong
+lindaseiter@Lindas-MacBook-Pro flask-codealong % ls
+CONTRIBUTING.md	Pipfile		README.md	server
+LICENSE.md	Pipfile.lock	pytest.ini
+lindaseiter@Lindas-MacBook-Pro flask-codealong % ls -la
+total 104
+drwxr-xr-x  12 lindaseiter  staff    384 Nov  6 13:56 .
+drwxr-xr-x  23 lindaseiter  staff    736 Nov  6 14:58 ..
+-rw-r--r--@  1 lindaseiter  staff   6148 Nov  6 10:56 .DS_Store
+drwxr-xr-x   3 lindaseiter  staff     96 Jan 19  2023 .github
+-rw-r--r--   1 lindaseiter  staff   1173 Nov  6 13:47 .gitignore
+-rw-r--r--   1 lindaseiter  staff   1810 Jun 26 09:23 CONTRIBUTING.md
+-rw-r--r--   1 lindaseiter  staff   1346 Jun 26 09:23 LICENSE.md
+-rw-r--r--   1 lindaseiter  staff    238 Nov  6 10:44 Pipfile
+-rw-r--r--   1 lindaseiter  staff  17376 Nov  6 10:44 Pipfile.lock
+-rw-r--r--   1 lindaseiter  staff   1249 Nov  6 13:56 README.md
+-rw-r--r--   1 lindaseiter  staff     30 Nov  6 10:44 pytest.ini
+drwxr-xr-x   5 lindaseiter  staff    160 Nov  6 13:09 server
+lindaseiter@Lindas-MacBook-Pro flask-codealong % cp .gitignore ..
+lindaseiter@Lindas-MacBook-Pro flask-codealong % cd ..
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % ls
+README.md			python-codealong
+canvas-quiz			python-lab
+css-lab				python-lesson
+flask-codealong			readme
+flask-lab			ruby-active-record-lab
+html-lab			ruby-lab
+java-lab-gradle			ruby-sinatra-lab
+java-lab-maven			setup-script-instructions.md
+javascript-lab			setup.sh
+mysetup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi setup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % ls
+README.md			python-codealong
+canvas-quiz			python-lab
+css-lab				python-lesson
+flask-codealong			readme
+flask-lab			ruby-active-record-lab
+html-lab			ruby-lab
+java-lab-gradle			ruby-sinatra-lab
+java-lab-maven			setup-script-instructions.md
+javascript-lab			setup.sh
+mysetup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % cp flask-codealong/.gitignore readme/
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi flask-codealong/.gitignore
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi flask-codealong/.gitignore
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi flask-lab/.gitgnore
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % ls
+README.md			python-codealong
+canvas-quiz			python-lab
+css-lab				python-lesson
+flask-codealong			readme
+flask-lab			ruby-active-record-lab
+html-lab			ruby-lab
+java-lab-gradle			ruby-sinatra-lab
+java-lab-maven			setup-script-instructions.md
+javascript-lab			setup.sh
+mysetup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % more flask-codealong/.gitignore 
+.DS_Store
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+#
+# If you find yourself ignoring temporary files generated by your text editor
+# or operating system, you probably want to add a global ignore instead:
+#   git config --global core.excludesfile '.gitignore_global'
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-*
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Runtime data
+pids
+*.pid
+*.seed
+# Ignore uploaded files in development.
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % cp flask-codealong/.gitignore flask-lab 
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % vi flask-lab/.gitgnore
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % ls
+README.md			python-codealong
+canvas-quiz			python-lab
+css-lab				python-lesson
+flask-codealong			readme
+flask-lab			ruby-active-record-lab
+html-lab			ruby-lab
+java-lab-gradle			ruby-sinatra-lab
+java-lab-maven			setup-script-instructions.md
+javascript-lab			setup.sh
+mysetup.sh
+lindaseiter@Lindas-MacBook-Pro aws-se-curriculum-templates % cd flask-lab 
+lindaseiter@Lindas-MacBook-Pro flask-lab % ls
+CONTRIBUTING.md	Pipfile		README.md	server
+LICENSE.md	Pipfile.lock	pytest.ini
+lindaseiter@Lindas-MacBook-Pro flask-lab % ls -la
+total 104
+drwxr-xr-x  12 lindaseiter  staff    384 Nov  6 15:03 .
+drwxr-xr-x  24 lindaseiter  staff    768 Nov  6 15:01 ..
+-rw-r--r--@  1 lindaseiter  staff   6148 Nov  6 10:56 .DS_Store
+drwxr-xr-x   3 lindaseiter  staff     96 Jan 19  2023 .github
+-rw-r--r--   1 lindaseiter  staff   1173 Nov  6 15:03 .gitignore
+-rw-r--r--   1 lindaseiter  staff   1810 Jun 26 09:23 CONTRIBUTING.md
+-rw-r--r--   1 lindaseiter  staff   1346 Jun 26 09:23 LICENSE.md
+-rw-r--r--   1 lindaseiter  staff    238 Nov  6 10:44 Pipfile
+-rw-r--r--   1 lindaseiter  staff  17376 Nov  6 10:44 Pipfile.lock
+-rw-r--r--@  1 lindaseiter  staff   1178 Nov  6 13:56 README.md
+-rw-r--r--   1 lindaseiter  staff     30 Nov  6 10:44 pytest.ini
+drwxr-xr-x   5 lindaseiter  staff    160 Nov  6 13:10 server
+lindaseiter@Lindas-MacBook-Pro flask-lab % more .gitignore 
+.DS_Store
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+#
+# If you find yourself ignoring temporary files generated by your text editor
+# or operating system, you probably want to add a global ignore instead:
+#   git config --global core.excludesfile '.gitignore_global'
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-*
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Runtime data
+pids
+*.pid
+*.seed
+# Ignore uploaded files in development.
+/storage/*
+!/storage/.keep
+.byebug_history
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# Directory for instrumented libs generated by jscoverage/JSCover
+lib-cov
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Learn-specific .results.json
+.results.json
+
+# Ignore bundler config.
+/.bundle
+
+# Virtual env metadata
+.venv
+
+# pytest cache
+.pytest_cache
+__pycache__
+
+# database
+*.db
+instance
+.vscode
+package-lock.json
+lindaseiter@Lindas-MacBook-Pro flask-lab % vi .gitignore 
+lindaseiter@Lindas-MacBook-Pro flask-lab % vi .gitignore
+
+.DS_Store
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+#
+# If you find yourself ignoring temporary files generated by your text editor
+# or operating system, you probably want to add a global ignore instead:
+#   git config --global core.excludesfile '.gitignore_global'
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-*
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Runtime data
+pids
+*.pid
+*.seed
+# Ignore uploaded files in development.
+/storage/*
+!/storage/.keep
+.byebug_history
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# Directory for instrumented libs generated by jscoverage/JSCover
+lib-cov
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Learn-specific .results.json
+".gitignore" [noeol] 66L, 1173B
